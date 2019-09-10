@@ -1,0 +1,11 @@
+D:\VisualStudio\FormTest\FormTest\bin\Debug\FormTest.exe.config
+D:\VisualStudio\FormTest\FormTest\bin\Debug\FormTest.exe
+D:\VisualStudio\FormTest\FormTest\bin\Debug\FormTest.pdb
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.csprojAssemblyReference.cache
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.FrmCarga.resources
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.cache
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.csproj.CoreCompileInputs.cache
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.exe
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.pdb
+D:\VisualStudio\FormTest\FormTest\obj\Debug\FormTest.FrmMostrar.resources
